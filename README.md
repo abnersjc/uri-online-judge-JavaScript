@@ -1,2 +1,2 @@
 # uri-online-judge
- iniciante
+JavaScript
